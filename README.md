@@ -1,3 +1,4 @@
+# Additional Version Control Resources
 Thank you for coming to today's workshop! 
 
 ## Git Tutorials and Activities
