@@ -2,8 +2,9 @@
 Thank you for coming to today's workshop! 
 
 ## Git Tutorials and Activities
-- [Software Carpentries](https://swcarpentry.github.io/git-novice/aio.html) is the source of today's lesson, and the full workshop has additional information and activities.
+- [Software Carpentries: Git](https://swcarpentry.github.io/git-novice/aio.html) is the source of today's lesson, and the full workshop has additional information and activities.
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US) is an interactive tool to try out more complicated branching scenarios than the toy examples we discussed today.
+- [Software Carpentries: The Command Line](https://swcarpentry.github.io/shell-novice/aio.html) is a great way to get better at command line programming if you found that aspect of Git difficult. 
 
 ## Documentation
 - [GitHub](https://docs.github.com/en) has thorough documentation and a handy [cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
