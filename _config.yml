@@ -1,1 +1,4 @@
+lang: en-US # e.g. uk, pl, en-US
+bg_color: dark # can be dark, light or auto
+theme_color: azure
 remote_theme: devich/quick@0.0.1
